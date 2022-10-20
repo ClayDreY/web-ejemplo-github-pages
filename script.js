@@ -1,3 +1,3 @@
-setInterval(() => {
-    "hola";
+setTimeout(() => {
+    alert("hola!");
 }, 5000);
